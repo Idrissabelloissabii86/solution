@@ -64,11 +64,11 @@ De façon plus précise et technique j'ai compris : clone, push, pull et merge d
 
 ### Capture d'écran du terminal
 
-![capture des commandes exo2](./commandes_exo2.png)
+![capture des commandes exo2](./commande_exo2.png)
 
 ### Capture d'écran github
 
-![capture de l'historique des commits exo2](./historique-commits_exo2.png)
+![capture de l'historique des commits exo2](./historique_commits_exo2.png)
 
 
 =================================================================================
