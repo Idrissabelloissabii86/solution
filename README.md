@@ -46,9 +46,9 @@ De façon plus précise et technique j'ai compris : clone, push, pull et merge d
 
 ### 💻 Les commandes utilisées
 
-- gh repo create git-learning-3 --public
+- gh repo create git-learning-2 --public
 - git clone https://github.com/Idrissabelloissabii86/git-learning-3.git
-- cd git-learning-3
+- cd git-learning-2
 - touch test.txt
 - git add test.txt
 - git commit -m "Commit vers main"
